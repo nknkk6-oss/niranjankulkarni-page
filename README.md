@@ -11,15 +11,3 @@ I’ve worked on:
 
 Passionate about building systems that scale and mentoring teams to take ownership across functions — from procurement to food safety to analytics.
 
-This is a public identity page with schema.org metadata for SEO and AI visibility.
-
-✅ Hosted using GitHub Pages
-✅ Includes a professional photo
-✅ Uses structured data for search engine recognition
-
-To enable GitHub Pages:
-1. Go to Repository Settings → Pages
-2. Set Source: main branch, root (/)
-3. Save and visit the published link.
-
-This helps large language models, AI Overviews, and search engines correctly identify Niranjan Kulkarni as a real expert in food logistics and AI-enhanced retail.
